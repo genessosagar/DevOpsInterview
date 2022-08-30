@@ -1,0 +1,38 @@
+AWS:
+1. Components of VPC
+2. Difference between NLB(Network Load Balancer) and ALB(Application Load Balancer)
+3. S3 Lifecycle
+4. What are the ways to connnect to the private subnet instances
+5. NAT Gateway
+
+Maven:
+1. Life cycle
+2. Full form of POM
+
+Git:
+1. What files are added to .gitignore in your project
+2. Git pull vs fetch
+3. Branching strategy
+
+Jenkins:
+1. CI and CD
+
+Ansible:
+1. What modules did you use in Ansible
+
+Docker:
+1. Docker file commands
+2. Difference between COPY and ADD
+3. Different types of networking in Docker
+
+Kubernetes:
+1. Architecture
+
+Sonarqube:
+1. Why did you use sonarqube in your project
+
+Linux:
+Difference between hardlink and softlink
+List of open ports in Linux
+sudo netstat -tulpn | grep LISTEN
+In a VI editor how will you go to the last line
